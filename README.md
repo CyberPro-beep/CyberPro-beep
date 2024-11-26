@@ -35,6 +35,7 @@
 - Advanced **Python** development techniques.
 
 ---
+<img src="https://tryhackme-badges.s3.amazonaws.com/Scoobarosa.png" alt="Your Image Badge" />
 
 ### 📊 Stats
 
